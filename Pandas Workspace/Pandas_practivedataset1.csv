@@ -1,0 +1,51 @@
+stop_date,stop_time,county_name,driver_gender,driver_age_raw,driver_age,driver_race,violation_raw,violation,search_conducted,search_type,stop_outcome,is_arrested,stop_duration,drugs_related_stop
+02-01-2005,01:55,,M,1985,20,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+18-01-2005,08:15,,M,1965,40,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+23-01-2005,23:15,,M,1972,33,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+20-02-2005,17:15,,M,1986,19,White,Call for Service,Other,FALSE,,Arrest Driver,TRUE,16-30 Min,FALSE
+14-03-2005,10:00,,F,1984,21,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+23-03-2005,09:45,,M,1982,23,Black,Equipment/Inspection Violation,Equipment,FALSE,,Citation,FALSE,0-15 Min,FALSE
+01-04-2005,17:30,,M,1969,36,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+06-06-2005,13:20,,F,1986,19,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+13-07-2005,10:15,,M,1970,35,Black,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+13-07-2005,15:45,,M,1970,35,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+13-07-2005,16:20,,M,1979,26,Asian,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+13-07-2005,19:00,,F,1966,39,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+14-07-2005,19:55,,M,1979,26,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+18-07-2005,19:30,,F,1984,21,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+18-07-2005,19:45,,M,1969,36,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+19-07-2005,00:30,,M,1982,23,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+19-07-2005,00:30,,M,1982,23,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+19-07-2005,23:30,,M,1979,26,White,Equipment/Inspection Violation,Equipment,FALSE,,Citation,FALSE,0-15 Min,FALSE
+20-07-2005,00:05,,M,1955,50,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+24-07-2005,20:10,,F,1958,47,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+28-07-2005,12:37,,F,1979,26,Asian,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+07-08-2005,16:50,,M,1953,52,White,Other Traffic Violation,Moving violation,FALSE,,Citation,FALSE,0-15 Min,FALSE
+08-08-2005,02:09,,M,1955,50,Black,Other Traffic Violation,Moving violation,FALSE,,Arrest Driver,TRUE,30+ Min,FALSE
+18-08-2005,10:57,,F,1967,38,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+28-08-2005,01:00,,M,1979,26,White,Other Traffic Violation,Moving violation,TRUE,"Incident to Arrest,Protective Frisk",Arrest Driver,TRUE,16-30 Min,FALSE
+03-09-2005,16:02,,,,,,,,FALSE,,,,,FALSE
+17-09-2005,10:54,,M,1964,41,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+21-09-2005,13:30,,F,1977,28,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+22-09-2005,22:34,,M,1984,21,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+26-09-2005,01:05,,,,,,,,FALSE,,,,,FALSE
+26-09-2005,12:09,,M,1959,46,Black,Other Traffic Violation,Moving violation,FALSE,,Citation,FALSE,30+ Min,FALSE
+28-09-2005,06:20,,M,1982,23,White,Speeding,Speeding,FALSE,,Arrest Driver,TRUE,16-30 Min,FALSE
+28-09-2005,07:15,,M,1973,32,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+28-09-2005,07:45,,M,1953,52,White,Other Traffic Violation,Moving violation,FALSE,,Citation,FALSE,0-15 Min,FALSE
+29-09-2005,23:45,,M,1947,58,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+30-09-2005,00:15,,M,1978,27,White,Equipment/Inspection Violation,Equipment,FALSE,,N/D,FALSE,0-15 Min,FALSE
+30-09-2005,09:30,,F,1986,19,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+30-09-2005,14:00,,M,1962,43,Asian,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+30-09-2005,19:25,,M,1981,24,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+30-09-2005,20:17,,M,1988,17,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+01-10-2005,00:00,,M,1988,17,White,Equipment/Inspection Violation,Equipment,TRUE,Probable Cause,Arrest Driver,TRUE,16-30 Min,TRUE
+01-10-2005,00:00,,M,1988,17,White,Equipment/Inspection Violation,Equipment,TRUE,Probable Cause,Citation,FALSE,30+ Min,TRUE
+01-10-2005,00:50,,M,1977,28,Hispanic,Other Traffic Violation,Moving violation,FALSE,,Arrest Driver,TRUE,30+ Min,FALSE
+01-10-2005,01:00,,M,1985,20,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+01-10-2005,01:45,,M,1983,22,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+01-10-2005,02:45,,M,1961,44,White,Other Traffic Violation,Moving violation,FALSE,,Citation,FALSE,0-15 Min,FALSE
+01-10-2005,08:40,,M,1959,46,White,Equipment/Inspection Violation,Equipment,FALSE,,Citation,FALSE,0-15 Min,FALSE
+01-10-2005,09:10,,M,1972,33,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+01-10-2005,09:20,,M,1957,48,White,Speeding,Speeding,FALSE,,Citation,FALSE,0-15 Min,FALSE
+01-10-2005,10:45,,M,1971,34,White,Equipment/Inspection Violation,Equipment,FALSE,,Citation,FALSE,0-15 Min,FALSE
